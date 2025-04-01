@@ -55,6 +55,8 @@ iLy.quest is an AI-powered web development platform that enables users to create
 - Remix other users' projects.
 - Share and collaborate on web development.
 
+![Screen Recording 2025-04-02 at 03 57 06](https://github.com/user-attachments/assets/faf0bd2b-96b2-4033-9b09-33d3115398f5)
+
 ---
 
 ## Getting Started
