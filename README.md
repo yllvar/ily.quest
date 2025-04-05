@@ -1,9 +1,5 @@
 # iLy.quest
-
-<p align="center">
-  <img src="public/iLy.svg" alt="iLy.quest Logo" width="90" />
-</p>
-
+---
 <p align="center">
   <strong>Build websites with AI, no code required.</strong>
 </p>
@@ -19,7 +15,7 @@
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/c017700d-ffc9-49b5-9304-eb02d7a37a58" alt="iLy.quest Screenshot" width="50%" />
+  <img src="https://github.com/user-attachments/assets/e4457630-a0c3-4b06-ad6b-2217f419dd0d" alt="iLy.quest Screenshot" width="50%" />
 </p>
 
 ---
